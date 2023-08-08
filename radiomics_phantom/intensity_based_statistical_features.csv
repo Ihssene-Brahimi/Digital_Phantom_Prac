@@ -1,0 +1,172 @@
+Image,Feature,Value
+image 4,Mean Intensity,40.57606745604593
+image 4,Variance Intensity,11554.077367671089
+image 4,Skewness Intensity,-4.583217639496971
+image 4,Kurtosis Intensity,28.00243891367949
+image 4,Median Intensity,63.0
+image 4,Minimum Intensity,-962.0
+image 4,10th Percentile Intensity,10.0
+image 4,90th Percentile Intensity,98.0
+image 4,Maximum Intensity,377.0
+image 4,Interquartile Range Intensity,42.0
+image 4,Intensity Range,1339.0
+image 4,Mean Absolute Deviation,51.12007412033598
+image 4,Intensity Robust Mean Absolute Deviation,17.782777167369925
+image 4,Intensity Median Absolute Deviation,21.0
+image 4,Intensity Coefficient Of Variation,2.6490959079459273
+image 4,Intensity Quartile Coefficient Of Dispersion,0.3442622950819672
+image 4,Intensity Energy,73579557.0
+image 4,Root Mean Square Intensity,114.89340545857571
+image 4,Standard Deviation Intensity,107.48989425834918
+image 5,Mean Intensity,34.358255942074614
+image 5,Variance Intensity,16393.090604356337
+image 5,Skewness Intensity,-3.9711370736707896
+image 5,Kurtosis Intensity,23.233218148415368
+image 5,Median Intensity,60.0
+image 5,Minimum Intensity,-879.0
+image 5,10th Percentile Intensity,5.0
+image 5,90th Percentile Intensity,100.0
+image 5,Maximum Intensity,723.0
+image 5,Interquartile Range Intensity,44.0
+image 5,Intensity Range,1602.0
+image 5,Mean Absolute Deviation,59.643424260520945
+image 5,Intensity Robust Mean Absolute Deviation,18.789278938713263
+image 5,Intensity Median Absolute Deviation,22.0
+image 5,Intensity Coefficient Of Variation,3.7264844136680733
+image 5,Intensity Quartile Coefficient Of Dispersion,0.3728813559322034
+image 5,Intensity Energy,111644956.0
+image 5,Root Mean Square Intensity,132.56538143775487
+image 5,Standard Deviation Intensity,128.0355052489595
+image 6,Mean Intensity,-4.1066666666666665
+image 6,Variance Intensity,21634.163603495625
+image 6,Skewness Intensity,-3.382549285059725
+image 6,Kurtosis Intensity,15.368871861786872
+image 6,Median Intensity,34.0
+image 6,Minimum Intensity,-876.0
+image 6,10th Percentile Intensity,-111.0
+image 6,90th Percentile Intensity,81.0
+image 6,Maximum Intensity,197.0
+image 6,Interquartile Range Intensity,55.0
+image 6,Intensity Range,1073.0
+image 6,Mean Absolute Deviation,81.0424529338327
+image 6,Intensity Robust Mean Absolute Deviation,25.60101423325536
+image 6,Intensity Median Absolute Deviation,28.0
+image 6,Intensity Coefficient Of Variation,-35.81629032105277
+image 6,Intensity Quartile Coefficient Of Dispersion,0.8461538461538461
+image 6,Intensity Energy,144520614.0
+image 6,Root Mean Square Intensity,147.14288400941018
+image 6,Standard Deviation Intensity,147.08556558512336
+image 7,Mean Intensity,6.051168873630865
+image 7,Variance Intensity,22473.781753170268
+image 7,Skewness Intensity,-3.549207461664793
+image 7,Kurtosis Intensity,16.697637354879358
+image 7,Median Intensity,40.0
+image 7,Minimum Intensity,-913.0
+image 7,10th Percentile Intensity,-85.0
+image 7,90th Percentile Intensity,95.0
+image 7,Maximum Intensity,209.0
+image 7,Interquartile Range Intensity,53.0
+image 7,Intensity Range,1122.0
+image 7,Mean Absolute Deviation,79.88100959415212
+image 7,Intensity Robust Mean Absolute Deviation,24.44847138217167
+image 7,Intensity Median Absolute Deviation,26.0
+image 7,Intensity Coefficient Of Variation,24.774152482043835
+image 7,Intensity Quartile Coefficient Of Dispersion,0.6385542168674698
+image 7,Intensity Energy,137696107.0
+image 7,Root Mean Square Intensity,150.03465732259153
+image 7,Standard Deviation Intensity,149.9125803699285
+image 8,Mean Intensity,11.60443792407849
+image 8,Variance Intensity,19143.55139787314
+image 8,Skewness Intensity,-3.917978659305468
+image 8,Kurtosis Intensity,20.637422890912696
+image 8,Median Intensity,39.0
+image 8,Minimum Intensity,-948.0
+image 8,10th Percentile Intensity,-38.0
+image 8,90th Percentile Intensity,94.0
+image 8,Maximum Intensity,241.0
+image 8,Interquartile Range Intensity,50.0
+image 8,Intensity Range,1189.0
+image 8,Mean Absolute Deviation,69.45191325206424
+image 8,Intensity Robust Mean Absolute Deviation,21.547776106291195
+image 8,Intensity Median Absolute Deviation,24.0
+image 8,Intensity Coefficient Of Variation,11.923043944721119
+image 8,Intensity Quartile Coefficient Of Dispersion,0.6097560975609756
+image 8,Intensity Energy,105124103.0
+image 8,Root Mean Square Intensity,138.8460095840242
+image 8,Standard Deviation Intensity,138.36022332257613
+image 9,Mean Intensity,-25.140693503387805
+image 9,Variance Intensity,35411.05712841503
+image 9,Skewness Intensity,-2.9855671618599344
+image 9,Kurtosis Intensity,11.676918856088278
+image 9,Median Intensity,33.0
+image 9,Minimum Intensity,-932.0
+image 9,10th Percentile Intensity,-214.29999999999995
+image 9,90th Percentile Intensity,77.0
+image 9,Maximum Intensity,224.0
+image 9,Interquartile Range Intensity,50.0
+image 9,Intensity Range,1156.0
+image 9,Mean Absolute Deviation,111.74352387205187
+image 9,Intensity Robust Mean Absolute Deviation,31.03465940926919
+image 9,Intensity Median Absolute Deviation,24.0
+image 9,Intensity Coefficient Of Variation,-7.4850066840836735
+image 9,Intensity Quartile Coefficient Of Dispersion,0.8620689655172413
+image 9,Intensity Energy,180864334.0
+image 9,Root Mean Square Intensity,189.85023465417765
+image 9,Standard Deviation Intensity,188.1782589153567
+image 10,Mean Intensity,-259.5361890694239
+image 10,Variance Intensity,88374.25361403417
+image 10,Skewness Intensity,-0.5248992294490725
+image 10,Kurtosis Intensity,2.1642512941216956
+image 10,Median Intensity,-219.5
+image 10,Minimum Intensity,-1000.0
+image 10,10th Percentile Intensity,-744.9
+image 10,90th Percentile Intensity,84.0
+image 10,Maximum Intensity,200.0
+image 10,Interquartile Range Intensity,473.0
+image 10,Intensity Range,1200.0
+image 10,Mean Absolute Deviation,252.32094194345112
+image 10,Intensity Robust Mean Absolute Deviation,196.19941695381283
+image 10,Intensity Median Absolute Deviation,233.5
+image 10,Intensity Coefficient Of Variation,-1.1454205119747989
+image 10,Intensity Quartile Coefficient Of Dispersion,-1.0305010893246187
+image 10,Intensity Energy,632588612.0
+image 10,Root Mean Square Intensity,394.63057034486565
+image 10,Standard Deviation Intensity,297.2780745598877
+image 11,Mean Intensity,-504.6655462184874
+image 11,Variance Intensity,98929.2309978109
+image 11,Skewness Intensity,0.9844943964623822
+image 11,Kurtosis Intensity,2.6933932052755334
+image 11,Median Intensity,-614.0
+image 11,Minimum Intensity,-914.0
+image 11,10th Percentile Intensity,-809.0
+image 11,90th Percentile Intensity,110.0
+image 11,Maximum Intensity,208.0
+image 11,Interquartile Range Intensity,381.25
+image 11,Intensity Range,1122.0
+image 11,Mean Absolute Deviation,255.3314370454064
+image 11,Intensity Robust Mean Absolute Deviation,184.72055091251195
+image 11,Intensity Median Absolute Deviation,152.0
+image 11,Intensity Coefficient Of Variation,-0.6232447952437602
+image 11,Intensity Quartile Coefficient Of Dispersion,-0.3482530258049783
+image 11,Intensity Energy,841607376.0
+image 11,Root Mean Square Intensity,594.6566610556172
+image 11,Standard Deviation Intensity,314.5301750195216
+image 12,Mean Intensity,90.36904761904762
+image 12,Variance Intensity,7531.391581632654
+image 12,Skewness Intensity,-2.851788090580474
+image 12,Kurtosis Intensity,12.383636596843713
+image 12,Median Intensity,119.0
+image 12,Minimum Intensity,-366.0
+image 12,10th Percentile Intensity,12.0
+image 12,90th Percentile Intensity,148.0
+image 12,Maximum Intensity,201.0
+image 12,Interquartile Range Intensity,58.25
+image 12,Intensity Range,567.0
+image 12,Mean Absolute Deviation,55.1849962207105
+image 12,Intensity Robust Mean Absolute Deviation,25.79650076439613
+image 12,Intensity Median Absolute Deviation,22.5
+image 12,Intensity Coefficient Of Variation,0.9603242791141414
+image 12,Intensity Quartile Coefficient Of Dispersion,0.27508854781582054
+image 12,Intensity Energy,3955885.0
+image 12,Root Mean Square Intensity,125.29148554154169
+image 12,Standard Deviation Intensity,86.78359050899343
