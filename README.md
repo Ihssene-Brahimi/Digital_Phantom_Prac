@@ -12,7 +12,7 @@ To install the package and its dependencies, follow these steps:
 2. Navigate to the package directory:
 
    ```bash
-   cd digital_phantom_package
+   cd PATH/digital_phantom_package
 
 3. Install the required dependencies using pip:
 
